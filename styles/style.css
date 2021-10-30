@@ -1,0 +1,22 @@
+body {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+h1 {
+    color: red;
+}
+
+.recipe h1 {
+    color: purple;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
